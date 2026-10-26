@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+*.o
+*.elf
+*.iso
+*.bin
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
